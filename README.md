@@ -1,2 +1,1 @@
-# Artificial-Intelligence
-Artificial Intelligence Specialization Course 
+# Machine Learning
